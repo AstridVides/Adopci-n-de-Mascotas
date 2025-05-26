@@ -5,5 +5,6 @@ data class Pet(
     val name: String,
     val type: String,
     val age: Int,
+    val description: String,
     val imageUrl: String
 )
